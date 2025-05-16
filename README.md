@@ -22,7 +22,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quotes" />
 </div>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nandot/nandot/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/nhxvnandha/nhxvnandha/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 
